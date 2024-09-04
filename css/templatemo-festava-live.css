@@ -360,7 +360,7 @@ strong {
 -----------------------------------------*/
 .sticky-wrapper {
   position: absolute;
-  top: 20;
+  top: -20;
   right: 0;
   left: 0;
   margin-top: 51px;
